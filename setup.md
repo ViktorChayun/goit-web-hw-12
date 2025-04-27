@@ -1,8 +1,11 @@
+0. створення віртуального оточення
+```
 cd %pyenv%  
 python -m venv %pyenv%\home_work_12
 %pyenv%\home_work_12\Scripts\activate.bat
 %pyenv%\home_work_12\Scripts\deactivate.bat
 pip install poetry
+```
 
 1. ініціалізація поетрі проекту в існуючій папці
 ```cmd
